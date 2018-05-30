@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "23.0.1"
+    "jest": "23.1.0"
   },
   "dependencies": {
     "lodash": "^4.17.4"
